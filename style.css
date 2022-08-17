@@ -3,8 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
-
+/* body */
 
 body{
     font-family: 'Orbitron', sans-serif;
@@ -22,6 +21,8 @@ li{
 [aria-label="navbar"]{
     width: 100%;
 }
+
+/* nav container */
 
 .navbar-container{
     text-align: center;
@@ -130,6 +131,8 @@ li:first-child{
     padding: 3rem 4rem;
 }
 
+/* button */
+
 .button-email{
     padding: 5px 30px;
     font-family: 'Orbitron';
@@ -144,6 +147,8 @@ li:first-child{
     margin-left: .6rem;
     margin-bottom: 6rem;
 }
+
+/* contact */
 
 .contact-heading{
     font-family: 'Poppins', sans-serif;
